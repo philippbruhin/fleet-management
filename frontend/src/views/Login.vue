@@ -2,7 +2,7 @@
     <section class="hero is-fullheight">
         <div class="hero-body is-flex is-justify-content-center ">
             <div class="is-flex is-flex-direction-column" style="gap: 0.75rem">
-                <img src="https://home.shelly.cloud/images/shelly-logo.svg" width="112" height="28" class="m-auto">
+                <img src="https://www.sintio.ch/app/uploads/2023/05/2023_Sintio_Logo_yellow-white_with_claim.svg" width="112" class="m-auto">
 
                 <div class="control has-icons-left">
                     <input class="input" type="text" placeholder="username" v-model="username">

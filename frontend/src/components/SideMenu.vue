@@ -1,7 +1,7 @@
 <template>
     <aside class="side-menu p-4 is-flex is-flex-direction-column is-justify-content-space-between" style="width: 200px">
         <div>
-            <img src="https://home.shelly.cloud/images/shelly-logo.svg" width="112" height="28" class="mb-4" />
+            <img src="https://www.sintio.ch/app/uploads/2023/05/2023_Sintio_Logo_yellow-white_with_claim.svg" width="112" class="mb-4" />
 
             <aside class="menu">
                 <ul class="menu-list">

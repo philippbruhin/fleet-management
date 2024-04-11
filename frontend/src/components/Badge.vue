@@ -71,7 +71,7 @@ const icons = reactive({
 function getLogo() {
     const deviceInfo = device.value?.info;
     if (deviceInfo == undefined || deviceInfo.model == undefined) {
-        return "/shelly_logo_black.jpg";
+        return "/2023_Sintio_Logo_yellow-white_with_claim.png";
     }
     let model = deviceInfo.model as string;
     if (model.charAt(2) == 'S' && model.charAt(3) == 'W' && model.charAt(5) != '0') {
